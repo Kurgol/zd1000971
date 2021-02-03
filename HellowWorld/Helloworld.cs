@@ -1,4 +1,3 @@
-Copy
 using System;
 
 class HelloWorld
